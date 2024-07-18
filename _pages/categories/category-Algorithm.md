@@ -1,9 +1,9 @@
 ---
-title: "Algorithm" # 카테고리 이름
+title: "Algorithm"
 layout: category
-permalink: /categories/Algorithm/ # url
+permalink: /categories/Algorithm2/
 author_profile: true
 taxonomy: Algorithm
 sidebar:
-nav: "categories"
+  nav: "categories"
 ---
