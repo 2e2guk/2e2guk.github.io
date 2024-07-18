@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm]Test"
+title: "Test"
 excerpt: "테스트 포스트입니다"
 
 categories:
