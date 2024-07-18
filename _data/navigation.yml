@@ -26,8 +26,8 @@ categories:
         url: /categories/range-query/
       - title: "misc"
         url: /categories/misc/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "overview"
+        url: /categories/overview/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
