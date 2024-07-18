@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "range-query"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/range-query/
 author_profile: true
-taxonomy: Categories2
+taxonomy: range-query
 sidebar:
   nav: "categories"
 ---
