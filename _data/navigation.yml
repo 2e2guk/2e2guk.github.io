@@ -28,10 +28,8 @@ categories:
         url: /categories/categories3/
       - title: "Categories4"
         url: /categories/categories4/
-categories:
   - title: "AI"
     children:
-    
       #- title: "combinational-optimization"
        # url: /categories/combinational-optimization/
       #- title: "range-query"
