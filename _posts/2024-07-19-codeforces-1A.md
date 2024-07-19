@@ -3,7 +3,7 @@ title: "codeforces-1A"
 excerpt: "코드포스 1A문제 해결"
 
 categories:
-  -math
+  - math
 tags:
   - [tag1, tag2]
 
