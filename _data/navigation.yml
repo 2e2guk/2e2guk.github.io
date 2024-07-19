@@ -30,6 +30,8 @@ categories:
         url: /categories/overview/
       - title: "math"
         url: /categories/math/
+      - title: "string"
+        url: /categories/string/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
