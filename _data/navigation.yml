@@ -32,6 +32,8 @@ categories:
         url: /categories/math/
       - title: "string"
         url: /categories/string/
+      - title: "greedy"
+        url: /categories/greedy/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
