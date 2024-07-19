@@ -28,6 +28,8 @@ categories:
         url: /categories/misc/
       - title: "overview"
         url: /categories/overview/
+      - title: "math"
+        url: /categories/math/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
