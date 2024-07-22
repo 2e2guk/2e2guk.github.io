@@ -1,5 +1,5 @@
 ---
-title: "Problem-Selection"
+title: "Project-Selection"
 excerpt: "flow network modeling technique"
 
 categories:
@@ -7,13 +7,13 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /combinational-optimization/Problem-Selection/
+permalink: /combinational-optimization/Project-Selection/
 
 toc: true
 toc_sticky: true
 
 date: 2024-07-21
-last_modified_at: 2024-07-21
+last_modified_at: 2024-07-22
 ---
 
 ## 🦥 본문
