@@ -36,6 +36,8 @@ categories:
         url: /categories/greedy/
       - title: "sorting"
         url: /categories/sorting/
+      - title: "binary-search"
+        url: /categories/binary-search/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
