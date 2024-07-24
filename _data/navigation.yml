@@ -42,6 +42,8 @@ categories:
         url: /categories/two-pointers/
       - title: "implementation"
         url: /categories/implementation/
+      - title: "prefix-sum"
+        url: /categories/prefix-sum/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
