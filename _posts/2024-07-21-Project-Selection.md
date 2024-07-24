@@ -93,7 +93,7 @@ ICPC > Regionals > Europe > Central European Regional Contest > CERC 2023 C번
 
 link : [boj30947](https://www.acmicpc.net/problem/30947)
 
-solution : 
+solution : [boj 30947 sol](https://2e2guk.github.io/combinational-optimization/boj30947/)
 
 2. Codeforces 1082G
 
