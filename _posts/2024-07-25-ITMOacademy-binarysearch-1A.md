@@ -1,5 +1,5 @@
 ---
-title: "codeforces-ITMOacademy-binarysearch"
+title: "ITMOacademy-binarysearch-1A"
 excerpt: "코드포스 ITMO academy pilot course 이분탐색 step1 A번"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /search/codeforces-ITMOacademy-binarysearch/
+permalink: /search/ITMOacademy-binarysearch-1A/
 
 toc: true
 toc_sticky: true
