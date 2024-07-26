@@ -11,7 +11,7 @@ permalink: /range-query/segment-tree/
 
 toc: true
 toc_sticky: true
-use_math = true
+use_math : true
 
 date: 2024-07-26
 last_modified_at: 2024-07-26
