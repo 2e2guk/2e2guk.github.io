@@ -333,7 +333,12 @@ int main() {
 
 문제 : [boj 2042](https://www.acmicpc.net/problem/2042)
 
-풀이 : [sol](https://github.com/2e2guk/ToolBox/blob/main/query처리/SegTree_recur.cpp) 풀아는, 1번 문제와 완벽히 동일허다. 
+풀이 : [sol](https://github.com/2e2guk/ToolBox/blob/main/query처리/SegTree_recur.cpp) 풀아는, 1번 문제와 완벽히 동일하다. 
+
+### 참고 자료
+
+[그림 자료, 내용 인용](https://codeforces.com/edu/course/2/lesson/4/1)
+
 
 
 
