@@ -297,7 +297,7 @@ Fenwick Tree =  140ms
 
 재귀 Seg = 202ms
 
-<img width="880" alt="스크린샷 2024-07-26 오후 6 32 58" src="https://github.com/user-attachments/assets/1ffb16cb-186f-4c4b-a12e-4ad7491fafb9">
+<img width="877" alt="스크린샷 2024-07-26 오후 6 47 46" src="https://github.com/user-attachments/assets/1c8ac3c6-6c27-45ae-bd03-9e0af505f1f4">
 
 이렇게 수행시간에 유의미한 차이가 나는 이유는, fenwick tree의 경우, bit 연산 기반이므로, 비재귀 방식의 세그먼트 트리보다 근소하게 빠르고, 
 
