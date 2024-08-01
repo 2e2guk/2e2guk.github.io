@@ -176,7 +176,29 @@ void update(IndexType idx, ValueType newValue) {
 }
 ```
 
-이렇게 구현하면 된다. 
+이렇게 구현하면 된다. 사실 이 방식은, root -> leaf 로 내려가며 업데이트하는 방식이고, 좀 더 직관적인 leaf -> root로의 업데이트 방식을 원하면, 다음과 같이 코드를 짜면 된다. 
+
+아주 근소하지만, leaf -> root 방식이 조금이나마 더 빠른 것 같다. 
+
+```cpp
+// 인덱스 idx의 값을 업데이트하고, 그 변화를 부모 노드로 전파한다.
+    void updateSegmentTree(IndexType node, IndexType start, IndexType end, IndexType idx, ValueType newValue) {
+        if (idx < start || idx > end) return;
+        if (start == end) {
+            segmentTree[node] = newValue;
+            return;
+        }
+        IndexType mid = (start + end) / 2;
+        updateSegmentTree(node * 2, start, mid, idx, newValue);
+        updateSegmentTree(node * 2 + 1, mid + 1, end, idx, newValue);
+        segmentTree[node] = segmentTree[node * 2] + segmentTree[node * 2 + 1];
+    }
+
+    void update(IndexType idx, ValueType newValue) {
+        array[idx] = newValue;
+        updateSegmentTree(1, 0, n - 1, idx, newValue);
+    }
+```
 
 #### query(l, r) 의 구현
 
