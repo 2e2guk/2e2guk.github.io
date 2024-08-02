@@ -54,4 +54,8 @@ categories:
        # url: /categories/categories3/
      # - title: "Categories4"
       #  url: /categories/categories4/
+  - title: "연습 기록"
+    children:
+  - title: "일상"
+  children:
 
