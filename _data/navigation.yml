@@ -46,6 +46,8 @@ categories:
         url: /categories/prefix-sum/
       - title: "Datastructure"
         url: /categories/Datastructure/
+      - title: "geometry"
+        url: /categories/geometry/
   - title: "AI"
     children:
       #- title: "combinational-optimization"
