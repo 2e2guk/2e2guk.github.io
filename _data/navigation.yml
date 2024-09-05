@@ -64,4 +64,6 @@ categories:
         url: /categories/codeforces/
   - title: "일상"
     children:
+  - title: "java"
+    children:
 
