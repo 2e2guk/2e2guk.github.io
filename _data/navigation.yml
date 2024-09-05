@@ -66,4 +66,6 @@ categories:
     children:
   - title: "java"
     children:
+      - title: "java"
+        url: /categories/java/
 
