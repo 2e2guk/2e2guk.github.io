@@ -1,13 +1,13 @@
 ---
 title: "CV(1)-image filtering"
-excerpt: "코드포스 118A 문제 해결"
+excerpt: "컴퓨터비전 이미지 필터링 기법 설명"
 
 categories:
   - CV
 tags:
   - [tag1, tag2]
 
-permalink: /CV/CV(1) image filtering/
+permalink: /CV/CV(1)-image-filtering/
 
 toc: true
 toc_sticky: true
