@@ -50,8 +50,8 @@ categories:
         url: /categories/geometry/
   - title: "AI"
     children:
-      #- title: "combinational-optimization"
-       # url: /categories/combinational-optimization/
+      - title: "CV"
+        url: /categories/CV/
       #- title: "range-query"
        # url: /categories/rangr-query/
       #- title: "Categories3"
