@@ -31,7 +31,7 @@ last_modified_at: 2024-10-14
 
 ### sqrt decomposition
 
-sqrt decomposition(제곱근 분할법)은, 주어진 N개의 값을, $sqrt{N}$ 개의 
+sqrt decomposition(제곱근 분할법)은, 주어진 N개의 값을, $\sqrt{N}$ 개의 
 
 
 
