@@ -134,7 +134,7 @@ ValueType query(ValueType l, ValueType r, ValueType k) {
 
 ### 연습 문제
 
-(boj14504)[https://www.acmicpc.net/problem/14504] 
+[boj14504](https://www.acmicpc.net/problem/14504)
 
 이 문제를 보자. 익숙한 쿼리들이 주어진다.. 그런데 메모리 제한이 512MB이다. 좀 작은데? 
 
