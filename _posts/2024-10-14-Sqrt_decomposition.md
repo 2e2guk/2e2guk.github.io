@@ -101,13 +101,13 @@ void update(ll idx, ValueType val) {
 
 관찰을 해 보면, 꽤 유용한 사실을 알 수 있다. 어떤 bucket의 시작 위치의 index를, **bucket_start** 라고 하면, 다음이 성립한다. 
 
-$bucket_start % \sqrt{N} == 0$
+$bucket_start \% \sqrt{N} == 0$
 
 고로, 우리는 l, r을 동시에 움직여 가면서, 
 
-만약 $bucket_start % \sqrt{N} != 0$ 이면 개별 처리(l++, r--)하고, 
+만약 $bucket_start \% \sqrt{N} != 0$ 이면 개별 처리(l++, r--)하고, 
 
-$bucket_start % \sqrt{N} == 0$이면, 한꺼번에 처리(l += \sqrt{N})하면 된다. 
+$bucket_start \% \sqrt{N} == 0$이면, 한꺼번에 처리(l \+= \sqrt{N})하면 된다. 
 
 코드로 구현하면, 다음과 같다. 참고할 것은, 이 코드의 쿼리는 구간 합이 **아니다**
 
