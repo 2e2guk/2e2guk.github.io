@@ -68,4 +68,9 @@ categories:
     children:
       - title: "java"
         url: /categories/java/
+  - title: "CS"
+    children:
+      - title: "SystemSoftware"
+        url: /categories/SystemSoftware/
+  
 
