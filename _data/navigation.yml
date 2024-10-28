@@ -66,8 +66,8 @@ categories:
         url: /categories/Data/
       - title: "NLP"
         url: /categories/NLP/
-      - title: "CV"
-        url: /categories/CV/
+      - title: "ComputerVision"
+        url: /categories/ComputerVision/
       -- title: "Math"
         url: /categories/Math/
   - title: "연습 기록"
