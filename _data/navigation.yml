@@ -58,6 +58,18 @@ categories:
        # url: /categories/categories3/
      # - title: "Categories4"
       #  url: /categories/categories4/
+  - title: "Kaggle"
+    children:
+      - title: "Python"
+        url: /categories/Python/
+      - title: "Data"
+        url: /categories/Data/
+      - title: "NLP"
+        url: /categories/NLP/
+      - title: "CV"
+        url: /categories/CV/
+      -- title: "Math"
+        url: /categories/Math/
   - title: "연습 기록"
     children:
       - title: "codeforces"
@@ -72,10 +84,8 @@ categories:
     children:
       - title: "SystemSoftware"
         url: /categories/SystemSoftware/
-   - title: "Kaggle"
-    children:
-      #- title: "SystemSoftware"
-        #url: /categories/SystemSoftware/
+   
+        
         
   
 
