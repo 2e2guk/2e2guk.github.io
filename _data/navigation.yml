@@ -68,7 +68,7 @@ categories:
         url: /categories/NLP/
       - title: "ComputerVision"
         url: /categories/ComputerVision/
-      -- title: "Math"
+      - title: "Math"
         url: /categories/Math/
   - title: "연습 기록"
     children:
