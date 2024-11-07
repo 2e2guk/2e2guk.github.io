@@ -74,8 +74,6 @@ categories:
     children:
       - title: "codeforces"
         url: /categories/codeforces/
-      - title: "ICPC"
-        url: /categories/ICPC/
   - title: "일상"
     children:
   - title: "프로그래밍언어"
